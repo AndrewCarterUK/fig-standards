@@ -17,7 +17,7 @@ PHP-FIG. If the Editor(s) of a proposal are missing for more than 60 days withou
 the Sponsors may agree upon a new Editor. An Editor is assumed to also be a Contributor to a PSR.
 
 **Sponsor:** Any one of two voting members who have agreed to Sponsor a proposed PSR.
-Each PSR must have two Sponsors. A Sponsor may not be an Editor but may otherwise contribute
+Each PSR must have two Sponsors. A Sponsor may not be an Editor but may otherwise contributeh
 in the normal way to a PSR. A Sponsor may step down to become an Editor for a PSR by posting a
 message to the Mailing List. In this case, a new replacement Sponsor must be found for the PSR
 to continue. Should a vote be underway, and a recorded Sponsor for that PSR objects on the basis
@@ -38,10 +38,10 @@ has been put in place.
 > decisions alone.
 
 **Coordinator:** One of the two required Sponsors is the Coordinator, and this must be decided between 
-the Sponsors early on. The Coordinator is in charge of the voting process. He notes the starting and 
-ending dates, the number of voting members at the start of the vote, and the quorum count needed. He 
-sends out reminders by whatever means he feels appropriate to drive the vote. At the end of the voting 
-period, he tallies the votes, notes if quorum was established, and whether or not the application was 
+the Sponsors early on. The Coordinator is in charge of the voting process. They note the starting and 
+ending dates, the number of voting members at the start of the vote, and the quorum count needed. They 
+send out reminders by whatever means they feels appropriate to drive the vote. At the end of the voting 
+period, they tallies the votes, note if quorum was established, and whether or not the application was 
 accepted.
 
 > **Note:** Copied from [Paul M. Jones' mail](https://groups.google.com/d/msg/php-fig/I0urcaIsEpk/uqQMb4bqlGwJ)
